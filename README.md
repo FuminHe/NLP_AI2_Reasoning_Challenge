@@ -1,11 +1,4 @@
-# NLP_Project_AI2_Reasoning_Challenge ( Currently Under Development)
-## Branches (under development)
-Current there are five branches corresponging to our five group members. Each branch will contain codes, papers to read and other materials. The following describs briefly the what tasks and files are included in each branch.
-* arc-chi: a) test run an existting model, b) test a new background paragraph search method, 3)literature review.
-* arc-fumin: a)crawling background knowledge from internet, b)literature review, c)potentially test run a language model.
-* arc-hguan6: a)test run baseline model and error analysis, b)test new model, c) literature review.
-* arc-manlin: a) variou scripts, b) model test, c) literature review
-* arc-yilun: a)crawling background knowledge from internet, b)literature review, c)potentially test run a language model.
+# NLP Project: AI2 Reasoning Challenge
 
 ### Disclaimer: 
 Every team member is contributing to this project actively on different aspects of this project and we could assume our members are comtributing EQUALLY in the effort to this project. And appreciations are expressed to those who work on this project.
